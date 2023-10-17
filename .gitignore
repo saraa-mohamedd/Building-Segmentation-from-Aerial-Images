@@ -1,0 +1,4 @@
+input/
+best_model.pth
+sample_predictions/
+data/
