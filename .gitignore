@@ -4,5 +4,7 @@ sample_predictions/
 new_ds_sample_predictions/
 data/
 RIO_data.zip
-new_ds_best_model.pth
 original_best_model.pth
+newest_sample_predictions/
+newesttttt_sample_predictions/
+models/
