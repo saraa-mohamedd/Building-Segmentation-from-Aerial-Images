@@ -6,5 +6,6 @@ data/
 RIO_data.zip
 original_best_model.pth
 newest_sample_predictions/
-newesttttt_sample_predictions/
+newest_arch_preds/
+new_new_arch_preds/
 models/
