@@ -3,9 +3,6 @@ best_model.pth
 sample_predictions/
 new_ds_sample_predictions/
 data/
-RIO_data.zip
-original_best_model.pth
-newest_sample_predictions/
 newest_arch_preds/
-new_new_arch_preds/
 models/
+attention_sample_preds/
