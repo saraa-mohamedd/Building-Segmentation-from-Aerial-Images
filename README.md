@@ -3,6 +3,9 @@
 Welcome to our Building Segmentation using Aerial Images Deep Learning Project! Below are steps to get the model up and running as you'd
  like it to.
 
+ #### Model Architecture
+
+ ![](https://github.com/saraa-mohamedd/Building-Segmentation-From-Aerial-Images/blob/main/readme_assets/new_Unet_architecture_with_attention.png)
 
 
 ## Data
@@ -28,4 +31,4 @@ If you'd like to test the model without going through training, simply do as abo
 
 ## Project Information & Visuals
 
-For more information about the project, click [here]{} to view a visual of the project, its structure, and our results. Click [here][] for a website description of the project.
+For more information about the project, click [here]() to view a poster visual of the project, its structure, and our results. Click [here][] for a website description of the project.
