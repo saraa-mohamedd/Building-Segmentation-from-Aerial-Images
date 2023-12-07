@@ -29,6 +29,17 @@ To test the model on the test dataset, simply load the desired model weights by 
 
 If you'd like to test the model without going through training, simply do as above, but without running the training cell.
 
+## Sample Output Examples
+
+Some sample outputs from our model. On the left, the input images; in the middle, the ground truth masks; on the right, the output of the model.
+
+<div align="center" style="width: 15px;">
+  <img src="https://github.com/saraa-mohamedd/Building-Segmentation-from-Aerial-Images/blob/main/readme%20assets/output1.png" alt=""/>
+</div>
+<div align="center">
+  <img src="https://github.com/saraa-mohamedd/Building-Segmentation-from-Aerial-Images/blob/main/readme%20assets/output2.png" alt=""/>
+</div>
+
 ## Project Information & Visuals
 
 For more information about the project, click [here](https://github.com/saraa-mohamedd/Building-Segmentation-from-Aerial-Images/blob/main/readme%20assets/Advanced%20ML%20Project%20Poster.pdf) to view a poster visual of the project, its structure, and our results. Click [here][] for a website description of the project.
