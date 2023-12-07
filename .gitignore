@@ -1,8 +1,1 @@
-input/
-best_model.pth
-sample_predictions/
-new_ds_sample_predictions/
 data/
-newest_arch_preds/
-models/
-attention_sample_preds/
